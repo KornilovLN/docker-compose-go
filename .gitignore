@@ -1,1 +1,5 @@
 *.pdf
+add_commit_push.sh
+main
+go.sum
+go.mod
